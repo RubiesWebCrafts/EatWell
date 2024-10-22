@@ -1,2 +1,2 @@
-# EatWell
-A Restaurant Menu Page
+# Jolore
+A landing page of a product
